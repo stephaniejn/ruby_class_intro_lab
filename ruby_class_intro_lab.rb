@@ -20,7 +20,7 @@ p hero1
 
 p hero1.super_punch
 
-hero2 = SuperHero.new "Adrienne", "Kerr"
+hero2 = SuperHero.new "spider", "man"
 p hero2
 p hero2.super_punch
 
